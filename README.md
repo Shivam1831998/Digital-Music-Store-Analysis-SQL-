@@ -14,3 +14,4 @@ A Data Analysis Project to churn out the important insights from the data set of
      10) media_type
      11) genre
       
+- Database - Postgre SQL
